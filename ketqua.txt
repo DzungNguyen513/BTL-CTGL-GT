@@ -1,0 +1,9 @@
+Nguyen Trung Dung;0368917001;9020,1,1,0,0
+
+Nguyen Mai Anh;0368917002;1540,1,0,0,0
+
+Nguyen Thuy Linh ;0368917003;29700,0,0,2,0
+
+Nguyen Anh Tuan;0368917004;3080,0,0,0,1
+
+Dang Duc Tuan;0368917005;0,0,0,0,0
